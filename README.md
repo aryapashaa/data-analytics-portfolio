@@ -7,3 +7,8 @@ This repository is containing portfolio of data analyst and data science project
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryapashaa/data-analytics-portofolio/blob/main/Daily_Global_Streams_of_Popular_Songs_in_2017_2018_Spotify.ipynb)
 
   This dataset includes 366 day of listener and songs name: Shape of You,	Despacito,	Something Just Like This,	HUMBLE., Unforgettable.
+
+- Data Analysis and Visualization
+  * [Analyze the behavior of loan property customers](https://github.com/aryapashaa/data-analytics-portfolio/blob/main/Arya%20Pasha%20Gunawan.ipynb)
+  
+  This dataset includes personal profiles such as phone number, gender, married and educational status, income, loan term, and loan status
