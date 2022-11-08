@@ -12,3 +12,8 @@ This repository is containing portfolio of data analyst and data science project
   * [Analyze the behavior of loan property customers](https://github.com/aryapashaa/data-analytics-portfolio/blob/main/Arya%20Pasha%20Gunawan.ipynb)
   
   This dataset includes personal profiles such as phone number, gender, married and educational status, income, loan term, and loan status
+
+- Data Visualization
+  * [Guarantee and Number of Health Facilities in West Java](https://public.tableau.com/views/VisualisasiJaminandanJumlahFasilitasKesehatandiJawaBarat/DASHBOARDJAMINANJUMLAHFASILITASKESEHATANDIJAWABARAT?:language=en-US&:display_count=n&:origin=viz_share_link)
+  
+  Using 2 dataset that includes name & code from province & city/county, type & amount of health facility, and total population
